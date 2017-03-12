@@ -10,5 +10,12 @@ public class ChessDesk {
                 System.out.print(0);
             }
         }
+        for(i=0;i<8;i++){
+            if(i%2==0){
+                System.out.print(0);
+            }else{
+                Sysem.out.print(1);
+        }
+        }
     }
 }
